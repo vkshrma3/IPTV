@@ -56,3 +56,66 @@ https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 
 #EXTINF:-1 tvg-id="abntv" tvg-name="ABN TV India" tvg-logo="" group-title="News",309 ABN TV India
 https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
+
+#######################
+# 📺 ENTERTAINMENT
+#######################
+#EXTINF:-1 tvg-id="dangal" tvg-name="Dangal TV" tvg-logo="https://www.lyngsat-logo.com/logo/channels/in/dangal.png" group-title="Entertainment",400 Dangal TV
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="shemaroochumbak" tvg-name="Shemaroo Chumbak" tvg-logo="https://www.lyngsat-logo.com/logo/channels/in/shemaroo_chumbak.png" group-title="Entertainment",401 Shemaroo Chumbak TV
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+
+#######################
+# 📡 INFOTAINMENT
+#######################
+#EXTINF:-1 tvg-id="historytv18" tvg-name="History TV18 HD" tvg-logo="https://www.lyngsat-logo.com/logo/channels/in/history_tv18.png" group-title="Infotainment",500 History TV18 HD
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
+
+#######################
+# 🛕 RELIGIOUS
+#######################
+#EXTINF:-1 tvg-id="aasthatv" tvg-name="Aastha TV" tvg-logo="https://www.lyngsat-logo.com/logo/channels/in/aastha_tv.png" group-title="Religious",600 Aastha TV
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="bhajantv" tvg-name="Bhajan TV" tvg-logo="https://www.lyngsat-logo.com/logo/channels/in/bhajan_tv.png" group-title="Religious",601 Bhajan TV
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="akaaltv" tvg-name="Akaal TV" tvg-logo="https://www.lyngsat-logo.com/logo/channels/in/akaal_tv.png" group-title="Religious",602 Akaal TV
+https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
+
+#EXTINF:-1 tvg-id="adhyatmtv" tvg-name="Adhyatm TV" tvg-logo="" group-title="Religious",603 Adhyatm TV
+https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8
+
+#EXTINF:-1 tvg-id="fatehtv" tvg-name="Fateh TV" tvg-logo="" group-title="Religious",604 Fateh TV
+https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
+
+#######################
+# 🌏 REGIONAL / PUNJABI
+#######################
+#EXTINF:-1 tvg-id="zeepunjab" tvg-name="Zee Punjab" tvg-logo="https://www.lyngsat-logo.com/logo/channels/in/zee_punjab.png" group-title="Regional",700 Zee Punjab Haryana Himachal
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8
+
+#EXTINF:-1 tvg-id="news18pb" tvg-name="News18 Punjab" tvg-logo="https://www.lyngsat-logo.com/logo/channels/in/news18_punjab.png" group-title="Regional",701 News18 Punjab Haryana
+https://n18syndication.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="news18bihar" tvg-name="News18 Bihar" tvg-logo="https://www.lyngsat-logo.com/logo/channels/in/news18_bihar.png" group-title="Regional",702 News18 Bihar Jharkhand
+https://n18syndication.akamaized.net/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="chardikla" tvg-name="Chardikla Time TV" tvg-logo="https://www.lyngsat-logo.com/logo/channels/in/chardikla_time_tv.png" group-title="Regional",703 Chardikla Time TV
+https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="globalpunjab" tvg-name="Global Punjab" tvg-logo="https://www.lyngsat-logo.com/logo/channels/in/global_punjab.png" group-title="Regional",704 Global Punjab
+https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
+
+#EXTINF:-1 tvg-id="punjabihits" tvg-name="Punjabi Hits" tvg-logo="" group-title="Regional",705 Punjabi Hits
+https://stream.ottlive.co.in/punjabihits/index.m3u8
+
+#EXTINF:-1 tvg-id="spokesmantv" tvg-name="Spokesman TV" tvg-logo="" group-title="Regional",706 Spokesman TV
+https://live1.ottlive.co.in/spokesman/spokesman/index.m3u8
+
+#EXTINF:-1 tvg-id="kaumudytv" tvg-name="Kaumudy TV" tvg-logo="" group-title="Regional",707 Kaumudy TV
+https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="pitaaratv" tvg-name="Pitaara TV" tvg-logo="" group-title="Regional",708 Pitaara TV
+https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
